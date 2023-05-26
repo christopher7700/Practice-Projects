@@ -1,1 +1,1 @@
-# Practice-Projects
+Practice projects on common used datasets. 
